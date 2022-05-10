@@ -7,6 +7,6 @@ This is the online Appendix for my Master thesis, _The policy emphasis of politi
 
 •	The Manifestos folder contains all the manifestos that have been used for the analysis as formated during the coding process. Each coded sentence is separeted. Each document also includes the codes for each sentence
 
-• The Data folder contains prepped datasets. The Norwegian policy data is all the manifestos merged, with the major topic added. The two other datasets Proportional data and proportional data with subtopics are the finnished data mostly used in the analysis, with the distributional data. Including only major topics and both major topics and subtopics respectively. See the R-script for the measuring of complexity, change and further details
+• The Prepped data folder contains prepped datasets. The Norwegian policy data is all the manifestos merged, with the major topic added. The two other datasets Proportional data and proportional data with subtopics are the finnished data mostly used in the analysis, with the distributional data. Including only major topics and both major topics and subtopics respectively. See the R-script for the measuring of complexity, change and further details
 
 • Coder training includes the data from each round of inter reliability testing. The two primary coders partook in each round and the project leader partially in the first
